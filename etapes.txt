@@ -1,0 +1,8 @@
+-npm init
+
+-https://github.com/typicode/json-server
+-npm install json-server
+
+-create db.json
+
+-npx json-server db.json
